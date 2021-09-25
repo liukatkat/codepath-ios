@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Prework
+//  Flix
 //
-//  Created by Katrina Liu on 9/3/21.
+//  Created by Katrina Liu on 9/24/21.
 //
 
 import UIKit
@@ -32,5 +32,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-
 }
+

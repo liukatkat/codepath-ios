@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Prework
+//  Lab 1
 //
-//  Created by Katrina Liu on 9/3/21.
+//  Created by Katrina Liu on 9/18/21.
 //
 
 import UIKit
