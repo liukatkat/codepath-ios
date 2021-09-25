@@ -1,54 +1,29 @@
-# Pre-work - TipCal
+# Flix
 
-**TipCal** is a tip calculator application for iOS.
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Submitted by: **Tin Nam Liu (Katrina)**
+📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
-Time spent: **6** hours spent in total
+---
 
-## User Stories
+## Flix Part 1
 
-The following **required** functionality is complete:
+### User Stories
 
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+#### REQUIRED (10pts)
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
 
-The following **optional** features are implemented:
+#### BONUS
+- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (1pt) Run your app on a real device.
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+### App Walkthrough GIF
 
-The following **additional** features are implemented:
+<img src="https://i.imgur.com/7EOzEuI.gif" width=250><br>
 
-- [x] Calculate the amount paid by each person
-- [x] Setting page: user can set their own default tip percentages
+### Notes
+Describe any challenges encountered while building the app.
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![](https://i.imgur.com/HFiDQTW.gif)
-
-
-
-## Notes
-
-Referenced a thread on Stack Overflow: https://stackoverflow.com/questions/27878732/swift-how-to-dismiss-number-keyboard-after-tapping-outside-of-the-textfield
-
-## License
-
-    Copyright Tin Nam Liu
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+N/A
